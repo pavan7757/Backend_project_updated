@@ -1,0 +1,1541 @@
+{
+  "health": [
+    {
+      "docId": "1774472563045",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "health"
+    }
+  ],
+  "name": [
+    {
+      "docId": "1774472563045",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "name"
+    }
+  ],
+  "pavan": [
+    {
+      "docId": "1774472563045",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pavan"
+    },
+    {
+      "docId": "doc 3",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pavan"
+    }
+  ],
+  "react": [
+    {
+      "docId": "1774472794788",
+      "positions": [
+        0,
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "react"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        0,
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "react"
+    }
+  ],
+  "full": [
+    {
+      "docId": "1774472794788",
+      "positions": [
+        1,
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "full"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "full"
+    }
+  ],
+  "text": [
+    {
+      "docId": "1774472794788",
+      "positions": [
+        2,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "text"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        7,
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "text"
+    }
+  ],
+  "search": [
+    {
+      "docId": "1774472794788",
+      "positions": [
+        3,
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "search"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "search"
+    }
+  ],
+  "next": [
+    {
+      "docId": "1774472794788",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "next"
+    }
+  ],
+  "engine": [
+    {
+      "docId": "1774472794788",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "engine"
+    }
+  ],
+  "with": [
+    {
+      "docId": "1774472794788",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "with"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "with"
+    }
+  ],
+  "inverted": [
+    {
+      "docId": "1774472794788",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "inverted"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        1,
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "inverted"
+    }
+  ],
+  "indexes": [
+    {
+      "docId": "1774472794788",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "indexes"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "indexes"
+    }
+  ],
+  "mongodb": [
+    {
+      "docId": "1774472794788",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mongodb"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        0,
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mongodb"
+    }
+  ],
+  "atlas": [
+    {
+      "docId": "1774472794788",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "atlas"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        1,
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "atlas"
+    }
+  ],
+  "field": [
+    {
+      "docId": "1774472794788",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "field"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "field"
+    }
+  ],
+  "boosting": [
+    {
+      "docId": "1774472794788",
+      "positions": [
+        16
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "boosting"
+    }
+  ],
+  "node": [
+    {
+      "docId": "1774472826332",
+      "positions": [
+        0,
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "node"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "node"
+    }
+  ],
+  "index": [
+    {
+      "docId": "1774472826332",
+      "positions": [
+        2,
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "index"
+    }
+  ],
+  "custom": [
+    {
+      "docId": "1774472826332",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "custom"
+    }
+  ],
+  "memory": [
+    {
+      "docId": "1774472826332",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "memory"
+    }
+  ],
+  "mapped": [
+    {
+      "docId": "1774472826332",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mapped"
+    }
+  ],
+  "unix": [
+    {
+      "docId": "1774472826332",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "unix"
+    }
+  ],
+  "compression": [
+    {
+      "docId": "1774472826332",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "compression"
+    }
+  ],
+  "shell": [
+    {
+      "docId": "1774472826332",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "shell"
+    }
+  ],
+  "scripts": [
+    {
+      "docId": "1774472826332",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "scripts"
+    }
+  ],
+  "git": [
+    {
+      "docId": "1774472826332",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "git"
+    }
+  ],
+  "schema": [
+    {
+      "docId": "1774472826332",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "schema"
+    }
+  ],
+  "express": [
+    {
+      "docId": "1774472826332",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "express"
+    }
+  ],
+  "api": [
+    {
+      "docId": "1774472826332",
+      "positions": [
+        16
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "api"
+    }
+  ],
+  "cloud": [
+    {
+      "docId": "1774472853742",
+      "positions": [
+        2,
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "cloud"
+    }
+  ],
+  "weights": [
+    {
+      "docId": "1774472853742",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "weights"
+    }
+  ],
+  "scoring": [
+    {
+      "docId": "1774472853742",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "scoring"
+    }
+  ],
+  "driver": [
+    {
+      "docId": "1774472853742",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "driver"
+    }
+  ],
+  "nike": [
+    {
+      "docId": "1774474135647",
+      "positions": [
+        0,
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "nike"
+    }
+  ],
+  "air": [
+    {
+      "docId": "1774474135647",
+      "positions": [
+        1,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "air"
+    }
+  ],
+  "jordan": [
+    {
+      "docId": "1774474135647",
+      "positions": [
+        2,
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "jordan"
+    }
+  ],
+  "premium": [
+    {
+      "docId": "1774474135647",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "premium"
+    }
+  ],
+  "basketball": [
+    {
+      "docId": "1774474135647",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "basketball"
+    }
+  ],
+  "shoes": [
+    {
+      "docId": "1774474135647",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "shoes"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "shoes"
+    }
+  ],
+  "red": [
+    {
+      "docId": "1774474135647",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "red"
+    }
+  ],
+  "black": [
+    {
+      "docId": "1774474135647",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "black"
+    }
+  ],
+  "leather": [
+    {
+      "docId": "1774474135647",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "leather"
+    }
+  ],
+  "add": [
+    {
+      "docId": "1774474135647",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "add"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "add"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "add"
+    }
+  ],
+  "document": [
+    {
+      "docId": "1774474135647",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "document"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "document"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "document"
+    },
+    {
+      "docId": "document",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "document"
+    }
+  ],
+  "python": [
+    {
+      "docId": "1774474152833",
+      "positions": [
+        0,
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "python"
+    }
+  ],
+  "developer": [
+    {
+      "docId": "1774474152833",
+      "positions": [
+        1,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "developer"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "developer"
+    }
+  ],
+  "remote": [
+    {
+      "docId": "1774474152833",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "remote"
+    }
+  ],
+  "django": [
+    {
+      "docId": "1774474152833",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "django"
+    }
+  ],
+  "aws": [
+    {
+      "docId": "1774474152833",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "aws"
+    }
+  ],
+  "backend": [
+    {
+      "docId": "1774474152833",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "backend"
+    }
+  ],
+  "work": [
+    {
+      "docId": "1774474152833",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "work"
+    }
+  ],
+  "from": [
+    {
+      "docId": "1774474152833",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "from"
+    }
+  ],
+  "home": [
+    {
+      "docId": "1774474152833",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "home"
+    }
+  ],
+  "15l": [
+    {
+      "docId": "1774474152833",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "15l"
+    }
+  ],
+  "hooks": [
+    {
+      "docId": "1774474173104",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hooks"
+    }
+  ],
+  "hindi": [
+    {
+      "docId": "1774474173104",
+      "positions": [
+        2,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hindi"
+    }
+  ],
+  "usestate": [
+    {
+      "docId": "1774474173104",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "usestate"
+    }
+  ],
+  "useeffect": [
+    {
+      "docId": "1774474173104",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "useeffect"
+    }
+  ],
+  "tutorial": [
+    {
+      "docId": "1774474173104",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "tutorial"
+    }
+  ],
+  "beginner": [
+    {
+      "docId": "1774474173104",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "beginner"
+    }
+  ],
+  "adidas": [
+    {
+      "docId": "1774501252580",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "adidas"
+    }
+  ],
+  "ultraboost": [
+    {
+      "docId": "1774501252580",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "ultraboost"
+    }
+  ],
+  "running": [
+    {
+      "docId": "1774501252580",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "running"
+    }
+  ],
+  "boost": [
+    {
+      "docId": "1774501252580",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "boost"
+    }
+  ],
+  "technology": [
+    {
+      "docId": "1774501252580",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "technology"
+    }
+  ],
+  "hlo": [
+    {
+      "docId": "1775224938455",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hlo"
+    },
+    {
+      "docId": "1775475883888",
+      "positions": [
+        0,
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hlo"
+    },
+    {
+      "docId": "1775476608094",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hlo"
+    },
+    {
+      "docId": "pawan",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hlo"
+    }
+  ],
+  "hsacbhqkw": [
+    {
+      "docId": "1775224938455",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hsacbhqkw"
+    }
+  ],
+  "pawan": [
+    {
+      "docId": "1775475883888",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pawan"
+    },
+    {
+      "docId": "1775476608094",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pawan"
+    },
+    {
+      "docId": "pawan",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pawan"
+    },
+    {
+      "docId": "doc 1",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pawan"
+    }
+  ],
+  "doc1": [
+    {
+      "docId": "Doc1",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "doc1"
+    },
+    {
+      "docId": "DOC1",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "doc1"
+    }
+  ],
+  "apple": [
+    {
+      "docId": "Doc1",
+      "positions": [
+        1,
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "apple"
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "apple"
+    }
+  ],
+  "banana": [
+    {
+      "docId": "Doc1",
+      "positions": [
+        2,
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "banana"
+    },
+    {
+      "docId": "Doc2",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "banana"
+    }
+  ],
+  "mango": [
+    {
+      "docId": "Doc1",
+      "positions": [
+        3,
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mango"
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mango"
+    }
+  ],
+  "orange": [
+    {
+      "docId": "Doc1",
+      "positions": [
+        5,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "orange"
+    },
+    {
+      "docId": "Doc2",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "orange"
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "orange"
+    }
+  ],
+  "doc2": [
+    {
+      "docId": "Doc2",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "doc2"
+    },
+    {
+      "docId": "DOC2",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "doc2"
+    }
+  ],
+  "doc3": [
+    {
+      "docId": "Doc3",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "doc3"
+    },
+    {
+      "docId": "DOC3",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "doc3"
+    }
+  ],
+  "doc": [
+    {
+      "docId": "doc 1",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "doc"
+    },
+    {
+      "docId": "doc 2",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "doc"
+    },
+    {
+      "docId": "doc 3",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "doc"
+    }
+  ],
+  "love": [
+    {
+      "docId": "doc 1",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "love"
+    },
+    {
+      "docId": "doc 2",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "love"
+    }
+  ],
+  "coding": [
+    {
+      "docId": "doc 1",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "coding"
+    }
+  ],
+  "rahul": [
+    {
+      "docId": "doc 2",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "rahul"
+    }
+  ],
+  "football": [
+    {
+      "docId": "doc 2",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "football"
+    },
+    {
+      "docId": "doc 3",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "football"
+    }
+  ],
+  "play": [
+    {
+      "docId": "doc 3",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "play"
+    }
+  ],
+  "cats": [
+    {
+      "docId": "DOC1",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "cats"
+    }
+  ],
+  "eats": [
+    {
+      "docId": "DOC1",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "eats"
+    }
+  ],
+  "fish": [
+    {
+      "docId": "DOC1",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "fish"
+    }
+  ],
+  "dogs": [
+    {
+      "docId": "DOC2",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "dogs"
+    }
+  ],
+  "eat": [
+    {
+      "docId": "DOC2",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "eat"
+    }
+  ],
+  "meat": [
+    {
+      "docId": "DOC2",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "meat"
+    }
+  ],
+  "cat": [
+    {
+      "docId": "DOC3",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "cat"
+    }
+  ],
+  "likes": [
+    {
+      "docId": "DOC3",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "likes"
+    }
+  ],
+  "milk": [
+    {
+      "docId": "DOC3",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "milk"
+    }
+  ],
+  "document1": [
+    {
+      "docId": "document1",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "document1"
+    }
+  ],
+  "dev": [
+    {
+      "docId": "document1",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "dev"
+    },
+    {
+      "docId": "document",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "dev"
+    }
+  ],
+  "hero": [
+    {
+      "docId": "document1",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hero"
+    }
+  ],
+  "superhero": [
+    {
+      "docId": "document",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "superhero"
+    }
+  ],
+  "book": [
+    {
+      "docId": "book-1",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "book"
+    },
+    {
+      "docId": "book-2",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "book"
+    },
+    {
+      "docId": "book-4",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "book"
+    }
+  ],
+  "harry": [
+    {
+      "docId": "book-1",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "harry"
+    },
+    {
+      "docId": "book-2",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "harry"
+    },
+    {
+      "docId": "book3",
+      "positions": [
+        1,
+        2,
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "harry"
+    },
+    {
+      "docId": "book-4",
+      "positions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "harry"
+    }
+  ],
+  "puttar": [
+    {
+      "docId": "book-1",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "puttar"
+    },
+    {
+      "docId": "book3",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "puttar"
+    }
+  ],
+  "patel": [
+    {
+      "docId": "book-2",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "patel"
+    },
+    {
+      "docId": "book3",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "patel"
+    }
+  ],
+  "book3": [
+    {
+      "docId": "book3",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "book3"
+    }
+  ],
+  "harryharryharryvv": [
+    {
+      "docId": "book-4",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "harryharryharryvv"
+    }
+  ]
+}
