@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🚀 Inverted Search  inde</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-search"></i> inverted Search index</h1>
+            <p>Powered by Inverted Indexes + MongoDB Atlas</p>
+        </header>
+
+        <div class="search-container">
+            <div class="search-box">
+                <div class="search-icon">
+                    <i class="fas fa-search"></i>
+                </div>
+                <input type="text" id="searchInput" placeholder="Search documents... (try 'react', 'mongodb', 'node')" autocomplete="off">
+                <div class="search-actions">
+                    <button class="search-btn" onclick="performSearch()">
+                        <i class="fas fa-arrow-right"></i>
+                    </button>
+                    <button class="clear-btn" onclick="clearSearch()" style="display: none;">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+                <div class="search-loading" id="searchLoading" style="display: none;">
+                    <i class="fas fa-spinner fa-spin"></i>
+                </div>
+            </div>
+            <div class="search-suggestions" id="searchSuggestions" style="display: none;">
+            </div>
+            <div class="search-stats" id="stats"></div>
+        </div>
+
+        <div class="results" id="results">
+            <div class="no-results" id="noResults" style="display:none;">
+                <i class="fas fa-inbox"></i> No results found
+            </div>
+        </div>
+
+        <div class="stats-panel">
+            <button onclick="showHealth()">Engine Status</button>
+            <div id="healthPanel" class="health-panel"></div>
+        </div>
+
+        <div class="add-doc">
+            <h3><i class="fas fa-plus"></i> Add Test Document</h3>
+            <input type="text" id="docTitle" placeholder="Title">
+            <textarea id="docContent" placeholder="Content"></textarea>
+            <button onclick="addDocument()">Add Document</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
